@@ -7,7 +7,7 @@ This repository contains a minimal setup for running a React project using Vite,
 1. Clone this repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/SaranaDheeraj/Blueticks-Assignment
+   git clone https://github.com/kotapati7396/bluetick
    ```
 
 2. Navigate to the project directory:
