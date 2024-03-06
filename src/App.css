@@ -1,0 +1,21 @@
+* {
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 1.25px;
+  font-weight: 500;
+  scroll-behavior: smooth;
+}
+
+a {
+  word-wrap: break-word;
+  text-decoration: none !important;
+}
+
+footer button {
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.1);
+}
+
+.underline {
+  width: 50px;
+  height: 3px;
+  margin-bottom: 10px;
+}
